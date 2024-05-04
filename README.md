@@ -1,4 +1,4 @@
-# This is a Fork. MAke shure to check out the original Repository
+# This is a Fork. Make shure to check out the original Repository
 
 <p align=center>
   <br>
